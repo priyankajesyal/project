@@ -1,0 +1,87 @@
+
+body
+{
+	background-image: url(../image/pic4.jpg);
+    background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+.navbar{
+    background-color: #333;
+    
+}
+.navbar a{
+    color: white;
+    
+}
+.navbar li:hover{
+    background-color: black;
+}
+
+.navbar-nav
+{
+    float: right;
+}
+
+.navbar-toggler-icon{
+    
+    font-size: 20px;
+}
+
+.logo
+{
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+.table
+{
+    width: 50%;
+    margin:50px 0 0 280px;
+   
+}
+
+.heading
+{
+    position: absolute;
+    top: 10px;
+    text-align: center;
+}
+
+tr {
+    background-color: #0566b6;
+    color: white;
+    font-size: 20px;
+}
+
+
+a
+{
+    color: white;
+}
+
+a:hover
+{
+    color: white;
+    text-decoration: none;
+}
+
+.error
+{
+    color: red;
+}
+
+.success
+{
+    color: green;
+}
+
+.center
+{
+    text-align: center;
+}

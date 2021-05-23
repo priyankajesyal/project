@@ -1,0 +1,93 @@
+body{
+    background: rgb(34, 189, 189);
+}
+
+.boxx1
+{
+	background-color: rgba(150, 26, 26, 0.623);
+		width: 35%;
+		padding: 20px 0;
+		position:absolute;
+		left: 35%;
+		top: 65px;
+}
+
+.box
+{
+	background-color: rgba(2, 97, 89, 0.623);
+		width: 35%;
+		padding: 20px 0;
+		position:absolute;
+		left: 35%;
+		top: 165px;
+		border-radius: 10px;
+}
+
+
+
+.center
+{
+	text-align: center;
+}
+
+.error
+{
+    color: red;
+}
+
+.link1{
+	color:white;
+	font-weight: bold;
+    text-align: center;
+	
+}
+
+.btn1
+{
+    background-color: rgb(2, 78, 72);
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: #333;
+    
+}
+.navbar a{
+    color: white;
+    
+}
+.navbar li:hover{
+    background-color: black;
+}
+
+.navbar-nav
+{
+    float: right;
+}
+
+.navbar-toggler-icon{
+    
+    font-size: 20px;
+}
+
+.logo
+{
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+#error
+{
+	color: red;
+}
